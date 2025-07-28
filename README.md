@@ -19,3 +19,13 @@ Proyek ini menggunakan berbagai arsitektur *Convolutional Neural Network (CNN)* 
 - Akurasi
 - Confusion Matrix
 - Precision, Recall, dan F1-Score
+
+---
+## Integrasi ke Aplikasi Mobile
+
+Model yang telah dilatih akan diintegrasikan ke aplikasi mobile menggunakan TensorFlow Lite.
+
+### Fitur Utama:
+- Mengunggah gambar biji kopi
+- Melakukan scan langsung pada biji kopi
+- Hasil klasifikasi kualitas serta presentase (contoh: Defect atau Good Quality)
